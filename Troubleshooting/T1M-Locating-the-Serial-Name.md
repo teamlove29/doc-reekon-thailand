@@ -1,1 +1,11 @@
-# <span style="color: orange">[T1M] Locating the Serial Name</span>
+# <span style="color: orange">[T1M] การค้นหาชื่อซีเรียล</span>
+
+ชื่อซีเรียล T1M Utility (หรือหมายเลขซีเรียล) อยู่ที่ด้านล่างของ T1M Utility และยังสามารถพบได้ในแอปเมื่อเชื่อมต่อ ชื่อซีเรียล T1M เป็นตัวระบุเฉพาะที่ตามรูปแบบ T1M-NameAnimal และจะเป็นเอกลักษณ์เฉพาะของ T1M ของคุณ คุณสามารถหาป้ายผลิตภัณฑ์ได้โดยเลื่อน Reference Square ออก และป้ายจะปรากฏที่ด้านล่างของเครื่องมือ
+
+<div style="margin-left: 10px;">
+
+<img src="https://support.reekon.tools/hc/article_attachments/37989838819348" alt="ตำแหน่งชื่อซีเรียล T1M" width="400">
+
+</div>
+
+ชื่อนี้จะปรากฏใน ROCK Jobsite App เมื่อพยายามเชื่อมต่อกับมัน และจะถูกขอในปัญหาการสนับสนุนใดๆ เพื่อช่วยในการแก้ไขให้ดีขึ้น

@@ -99,7 +99,7 @@
 
 <br/>
 <br/>
-<h1 align="center"> ️🔥 ผู้แปลบทความทั้งหมด 🔥 </h1>
+<h2 align="center"> ️🔥ผู้จัดทำ 🔥 </h2>
 
 <p align="center">
     <a href="https://github.com/teamlove29" target="_blank" rel="noopener">
