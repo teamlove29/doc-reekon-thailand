@@ -1,1 +1,9 @@
-# <span style="color: orange">[T1M] Does the T1M Utility come in Metric Units?</span>
+# <span style="color: orange">[T1M] T1M Utility มีหน่วยเมตริกหรือไม่?</span>
+
+ใช่ T1M Utility มีให้ในแบบเมตริกพร้อมเครื่องหมาย cm และ mm นอกจากนี้ยังมีให้ในหน่วย English/Imperial และหน่วย Split ซึ่งรวมเครื่องหมายทั้งภาษาอังกฤษและเมตริก
+
+<div style="margin-left: 10px;">
+
+ไม่ว่าจะติดตั้งใบมีดแบบไหน หน้าจอดิจิทัลสามารถแสดงหน่วยภาษาอังกฤษและเมตริกทั้งหมดได้
+
+</div>

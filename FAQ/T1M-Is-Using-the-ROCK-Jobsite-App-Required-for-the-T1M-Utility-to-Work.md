@@ -1,1 +1,9 @@
-# <span style="color: orange">[T1M] Is Using the ROCK Jobsite App Required for the T1M Utility to Work?</span>
+# <span style="color: orange">[T1M] จำเป็นต้องใช้แอป ROCK Jobsite เพื่อให้ T1M Utility ทำงานได้หรือไม่?</span>
+
+ไม่ T1M Utility จะทำงานได้อย่างสมบูรณ์ด้วยตนเอง และเป็นเทปวัดดิจิทัลที่ทำงานได้เต็มรูปแบบโดยไม่ต้องพึ่งแอปหรือสมาร์ทโฟนใดๆ
+
+<div style="margin-left: 10px;">
+
+แอป ROCK Jobsite แม้ว่าจะไม่จำเป็น แต่ช่วยเพิ่มประสิทธิภาพของเครื่องมือโดยให้ประโยชน์เพิ่มเติม เช่น การแบ่งปันการวัด การอัปเดตเฟิร์มแวร์ และเครื่องคิดเลขก่อสร้าง
+
+</div>

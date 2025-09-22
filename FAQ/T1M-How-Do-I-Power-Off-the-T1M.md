@@ -1,1 +1,9 @@
-# <span style="color: orange">[T1M] How Do I Power Off the T1M</span>
+# <span style="color: orange">[T1M] วิธีปิดเครื่อง T1M</span>
+
+T1M Utility สามารถปิดเครื่องได้โดยเข้าไปที่เมนูการดำเนินการด่วน จากนั้นเลื่อนไปที่ Main Menu ที่เมนูหลัก ให้เลื่อนลงไปที่ "Power Off" เพื่อปิดเครื่อง T1M Utility ของคุณอย่างสมบูรณ์
+
+<div style="margin-left: 10px;">
+
+T1M จะเข้าสู่โหมดสลีปโดยอัตโนมัติหลังจากไม่มีการใช้งาน 3 นาที และปิดเครื่องสมบูรณ์หลังจาก 3 ชั่วโมง
+
+</div>

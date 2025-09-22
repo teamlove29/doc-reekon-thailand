@@ -1,1 +1,3 @@
-# <span style="color: orange">[T1M] How Do I Register My T1M Utility Tape Measure?</span>
+# <span style="color: orange">[T1M] วิธีลงทะเบียน T1M Utility Tape Measure ของฉัน</span>
+
+T1M Utility ของคุณจะได้รับการลงทะเบียนโดยอัตโนมัติเมื่อคุณเชื่อมต่อกับแอป ROCK Jobsite เป็นครั้งแรก

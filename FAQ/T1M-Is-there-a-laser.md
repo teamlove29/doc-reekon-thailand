@@ -1,1 +1,3 @@
-# <span style="color: orange">[T1M] Is there a laser?</span>
+# <span style="color: orange">[T1M] มีเลเซอร์หรือไม่?</span>
+
+ต่างจาก T1 Tomahawk, T1M ไม่มีเลเซอร์สำหรับการจัดแนว และใช้ใบมีดอ้างอิงสีเหลืองที่มีให้แทน

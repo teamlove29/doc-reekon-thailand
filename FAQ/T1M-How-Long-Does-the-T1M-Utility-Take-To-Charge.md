@@ -1,1 +1,3 @@
-# <span style="color: orange">[T1M] How Long Does the T1M Utility Take To Charge?</span>
+# <span style="color: orange">[T1M] T1M Utility ใช้เวลาชาร์จนานแค่ไหน?</span>
+
+T1M Utility Tape Measure ใช้เวลาประมาณ 2 ชั่วโมงในการชาร์จให้เต็ม ขึ้นอยู่กับแหล่งพลังงาน ไอคอนการชาร์จจะปรากฏบนหน้าจอ LCD ขณะที่อุปกรณ์กำลังชาร์จ และไอคอนแบตเตอรี่จะเต็มเมื่อชาร์จเสร็จสิ้น

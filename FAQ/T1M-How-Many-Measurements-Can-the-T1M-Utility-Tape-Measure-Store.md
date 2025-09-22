@@ -1,1 +1,9 @@
-# <span style="color: orange">[T1M] How Many Measurements Can the T1M Utility Tape Measure Store?</span>
+# <span style="color: orange">[T1M] T1M Utility Tape Measure สามารถเก็บการวัดได้กี่ครั้ง?</span>
+
+หน้าจอ LCD ที่ด้านบนของ T1M Utility สามารถแสดง (และเก็บ) การวัดได้หลายร้อยครั้ง และจะไปหน้าจอถัดไปทุกๆ 3 การวัด การวัดสามารถลบทีละรายการได้โดยใช้ปุ่มลูกศรและเลือกปุ่มเมนูการดำเนินการด่วน
+
+<div style="margin-left: 10px;">
+
+การวัดยังสามารถซิงโครไนซ์กับแอป ROCK Jobsite App เพื่อการจัดเก็บแบบไม่จำกัดเกือบจะ
+
+</div>

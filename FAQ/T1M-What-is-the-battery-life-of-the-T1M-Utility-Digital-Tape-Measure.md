@@ -1,1 +1,3 @@
-# <span style="color: orange">[T1M] What is the battery life of the T1M Utility Digital Tape Measure?</span>
+# <span style="color: orange">[T1M] อายุการใช้งานแบตเตอรี่ของ T1M Utility Digital Tape Measure เป็นอย่างไร?</span>
+
+แบตเตอรี่ของ T1M Utility มีอายุการใช้งานประมาณ 150 ชั่วโมงในการใช้งานต่อเนื่อง อุปกรณ์จะเข้าสู่โหมดสลีปหลังจากไม่มีการใช้งาน 3 นาที และปิดเครื่องโดยอัตโนมัติหลังจากไม่มีการใช้งาน 3 ชั่วโมง ซึ่งจะช่วยเพิ่มอายุการใช้งานแบตเตอรี่อย่างมีนัยสำคัญ
