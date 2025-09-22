@@ -10,4 +10,4 @@
 - สายชาร์จ USB-C
 - คู่มือเริ่มต้นใช้งาน
 
-![T1M Unboxing](https://support.reekon.tools/hc/article_attachments/37955048408852)
+<img src="https://support.reekon.tools/hc/article_attachments/37955048408852" alt="T1M Unboxing" width="400">
