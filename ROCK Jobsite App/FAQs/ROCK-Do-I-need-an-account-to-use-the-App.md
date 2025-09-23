@@ -1,1 +1,3 @@
-# <span style="color: orange">[ROCK] Do I need an account to use the App?</span>
+# <span style="color: orange">[ROCK] ฉันต้องมีบัญชีเพื่อใช้แอปหรือไม่?</span>
+
+ใช่ ผู้ใช้จำเป็นต้องลงทะเบียนและยืนยันบัญชีก่อนใช้ ROCK App

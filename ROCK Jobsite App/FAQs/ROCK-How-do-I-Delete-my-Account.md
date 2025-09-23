@@ -1,1 +1,9 @@
-# <span style="color: orange">[ROCK] How do I Delete my Account?</span>
+# <span style="color: orange">[ROCK] ฉันจะลบบัญชีของฉันได้อย่างไร?</span>
+
+เพื่อลบบัญชี ROCK Jobsite ของคุณ พร้อมกับข้อมูลผู้ใช้ที่เกี่ยวข้องกับบัญชีของคุณ โปรดทำตามขั้นตอนด้านล่าง:
+
+1. ใน ROCK Jobsite App ไปที่แท็บ 'Settings'
+2. เลือกรูปโปรไฟล์ผู้ใช้
+3. เลือกไอคอนดินสอด้านล่างรูปโปรไฟล์ผู้ใช้
+4. เลื่อนลงไปที่ด้านล่างของหน้า Edit User Profile และเลือก "Delete Account"
+5. ป้อนรหัสผ่านเพื่อยืนยันและเลือก "Delete"

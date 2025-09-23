@@ -1,1 +1,41 @@
-# <span style="color: orange">[ROCK] Custom Calculators Overview</span>
+# <span style="color: orange">[ROCK] ภาพรวม Custom Calculators</span>
+
+Custom Calculators เป็นเครื่องมือที่มีประสิทธิภาพใน ROCK ที่ช่วยให้ผู้ใช้สามารถสร้างแม่แบบสำหรับให้ผู้อื่นใช้ในการเก็บรวบรวมข้อมูล ทำการคำนวณ และซ้อนทับบนรูปภาพหรือไดอะแกรมเพื่อความชัดเจน เมื่อเปรียบเทียบกับ photo annotations ซึ่งเหมาะสมกับการใช้งานแบบ free form และใช้ครั้งเดียว custom calculators ช่วยให้สามารถกำหนดการป้อนข้อมูลและการคำนวณแบบมีโครงสร้าง custom calculators ทำได้เร็วและง่าย และสามารถเรียบง่ายหรือลึกซึ้งได้ขึ้นอยู่กับการใช้งานที่ต้องการ
+
+ด้านล่างเป็นภาพรวมของฟีเจอร์ Inspection
+
+## <span style="color: orange">Custom Calculators Template</span>
+
+Custom calculators สามารถสร้างได้ภายใต้แท็บ "Custom" ในหน้า utility ที่ด้านบนของรายการ Templates จะถูกสร้างขึ้นก่อนเพื่อกำหนดโครงสร้างการเก็บข้อมูลและรูปภาพหรือกราฟิกที่ใช้ เมื่อบันทึกแล้ว ผู้ใช้ทุกคนสามารถใช้ template เพื่อกรอกข้อมูล (ในรูปแบบการกรอกเติมช่องว่าง)
+
+- Templates อื่นๆ ที่เคยสร้างไว้ก่อนหน้านี้จะปรากฏในรูปแบบรายการด้านล่างไอคอน Create Inspection ในแท็บ Custom ในหน้า Utilities
+
+![Custom Calculator Templates](https://support.reekon.tools/hc/article_attachments/30664575518740)
+
+- การกด "..." ที่มุมขวาบนของ template ช่วยให้คุณสามารถทำสำเนา template (พร้อมกับข้อมูลปัจจุบันทั้งหมด) หรือลบได้
+
+![Template Options](https://support.reekon.tools/hc/article_attachments/30664554992148)
+
+- Templates ไม่สามารถแก้ไขได้เมื่อบันทึกแล้ว ดังนั้นการทำสำเนาเพื่อทำการเปลี่ยนแปลงเป็นวิธีเดียวที่จะทำได้
+
+## <span style="color: orange">การใช้ custom calculator</span>
+
+เมื่อสร้าง custom calculator แล้ว สามารถใช้เป็น templates สำหรับการป้อนข้อมูลโดยใครก็ตามที่มีสิทธิ์เข้าถึงโปรเจกต์ที่บันทึกไว้ จะปรากฏภายใต้แท็บ custom ในหน้า utility
+
+- เมื่อ custom calculator ถูกกรอกและบันทึกแล้ว ไม่สามารถแก้ไขได้เพื่อรักษาข้อมูล
+- Templates ที่บันทึกแล้วจะปรากฏเป็น Objects ในส่วน Objects ของ Area
+- การวัดสามารถป้อนข้อมูลแบบ real time จากอุปกรณ์ที่เชื่อมต่อ (และจะปรากฏที่ท้ายรายการการวัด)
+- Tabs สามารถสร้างได้เพื่อจัดกลุ่ม custom calculator outputs หลายๆ ตัวเข้าด้วยกันและบันทึกภายใต้ Object เดียว (หากคุณกำลังวัดหน้าต่างหลายบานในห้องเดียวกัน คุณอาจต้องการใช้ tabs แทนที่จะใช้ custom calculator outputs ที่แตกต่างกันสำหรับแต่ละกรณีเพื่อช่วยให้จัดระเบียบได้ดีขึ้น)
+
+![Custom Calculator Usage](https://support.reekon.tools/hc/article_attachments/19278467868564)
+
+## <span style="color: orange">ตัวอย่าง Custom Calculator</span>
+
+มีตัวอย่างการใช้งาน custom calculators ในเว็บไซต์งานที่เป็นประโยชน์หลายประการ รวมถึง:
+
+- การสร้าง custom utility หรือแบบฟอร์มสำหรับองค์กรของคุณ
+- การวัดหน้าต่างหลายๆ บานและเพิ่มค่า offset
+- การบันทึกข้อมูลแบบมีโครงสร้าง
+- การให้ผู้ปฏิบัติงานได้รับผลลัพธ์ตัวเลขจากการป้อนข้อมูลหลายชุด
+- การดำเนินการเครื่องคิดเลขหรือสเปรดชีตใดๆ
+- การบันทึกผลลัพธ์ของขั้นตอนการตรวจสอบหลายๆ ขั้น

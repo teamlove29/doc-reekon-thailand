@@ -1,1 +1,5 @@
-# <span style="color: orange">[ROCK] How can I add two measurement together or use them directly in a calculator?</span>
+# <span style="color: orange">[ROCK] ฉันสามารถบวกการวัดสองครั้งเข้าด้วยกันหรือใช้โดยตรงในเครื่องคิดเลขได้อย่างไร?</span>
+
+ได้ ROCK Jobsite app มีเครื่องคิดเลขแบบรวมในตัวสำหรับการดำเนินการทางคณิตศาสตร์ใดๆ คุณสามารถดูเพิ่มเติมได้ที่นี่
+
+![Calculator Integration](https://support.reekon.tools/hc/en-us/articles/19075559334164)
