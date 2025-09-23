@@ -8,14 +8,14 @@
 
 เปิด ROCK และไปที่ "Devices Tab" ขณะที่ T1M เปิดเครื่องอยู่ เพื่อเชื่อมต่อ T1M กับ ROCK app
 
-<img src="https://support.reekon.tools/hc/article_attachments/37988474772116" alt="การเชื่อมต่อ T1M กับ ROCK App" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37988474772116" alt="การเชื่อมต่อ T1M กับ ROCK App" width="300">
 
 **2.** เมื่อเชื่อมต่อแล้ว ไอคอน Bluetooth ที่มุมขวาบนของหน้าจอจะเปลี่ยนเป็นสีน้ำเงิน
 
-<img src="https://support.reekon.tools/hc/article_attachments/37956673804180" alt="สถานะการเชื่อมต่อ Bluetooth" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37956673804180" alt="สถานะการเชื่อมต่อ Bluetooth" width="300">
 
 **3.** เข้าถึงฟังก์ชัน Sync:
 
 แตะไอคอน Bluetooth ภายในแอป ข้อความแจ้งจะปรากฏขึ้น โดยขอให้คุณเลือกอุปกรณ์ที่เชื่อมต่อซึ่งคุณต้องการซิงค์การวัด เมื่อเลือกแล้ว ให้กด Sync และการวัดทั้งหมดบน T1M Utility จะถูกถ่ายโอนไปยัง workspace ปัจจุบันของคุณในแอป
 
-<img src="https://support.reekon.tools/hc/article_attachments/37956630057876" alt="ฟังก์ชัน Sync ใน ROCK App" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37956630057876" alt="ฟังก์ชัน Sync ใน ROCK App" width="300">

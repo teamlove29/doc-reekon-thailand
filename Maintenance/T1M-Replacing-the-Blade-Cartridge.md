@@ -4,7 +4,7 @@
 
 ก่อนเริ่ม ให้แน่ใจว่าเครื่องปิดแล้ว และเตรียมไขควงหัวฟิลิปส์ #0 และสวมแว่นนิรภัย
 
-<iframe width="400" height="225" src="https://youtu.be/n24xsvN4WRQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="225" src="https://youtu.be/n24xsvN4WRQ" frameborder="0" allowfullscreen></iframe>
 
 ## <span style="color: orange">ขั้นตอนที่ 1: แยกชิ้นส่วน T1M Utility</span>
 
@@ -13,22 +13,22 @@
 3. แยกโมดูลอ่านค่าส่วนบนออกจากโมดูลส่วนล่างโดยจับส่วนล่างให้แน่นและเลื่อนส่วนบนไปข้างหน้าด้วยนิ้วหัวแม่มือ
 4. หมุนโมดูลอ่านค่าส่วนล่างอย่างระมัดระวังเพื่อแยกออกจากสายวัด (⚠ ข้อควรระวัง: ระวังอย่าให้สะพานบนโมดูลอ่านค่าส่วนล่างเสียหาย)
 
-<img src="https://support.reekon.tools/hc/article_attachments/38091738230548" alt="การแยกโมดูลอ่านค่า" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/38091738230548" alt="การแยกโมดูลอ่านค่า" width="300">
 
 5. พลิก T1M ให้ด้านขวาขึ้นบนและดึงสายวัดออกมาประมาณ 6 นิ้ว
 
-<img src="https://support.reekon.tools/hc/article_attachments/38091738232468" alt="การดึงสายวัด" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/38091738232468" alt="การดึงสายวัด" width="300">
 
 ## <span style="color: orange">ขั้นตอนที่ 2: เปลี่ยนตลับสายวัด</span>
 
 1. หาแท่งโลหะที่วิ่งไปตามด้านล่างของชุดรีล
 2. ดึงแท่งโลหะอย่างแน่นหนาเพื่อถอดชุดรีลเก่าออกจาก T1M
 
-<img src="https://support.reekon.tools/hc/article_attachments/38091723354644" alt="การถอดรีลเก่า" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/38091723354644" alt="การถอดรีลเก่า" width="300">
 
 3. ใส่ชุดรีลใหม่ โดยให้แน่ใจว่าปลายสายวัดหันไปข้างหน้าและแท่งโลหะหันมาหาคุณ
 
-<img src="https://support.reekon.tools/hc/article_attachments/38091738235284" alt="การติดตั้งรีลใหม่" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/38091738235284" alt="การติดตั้งรีลใหม่" width="300">
 
 4. ดึงใบตลับเมตรไปข้างหน้าเพื่อเตรียมสำหรับการประกอบกลับ
 
@@ -38,11 +38,11 @@
 2. คลิปโมดูลอ่านค่าส่วนบนเข้ากับโมดูลส่วนล่าง โดยเลื่อนจากหน้าไปหลังจนกว่าจะล็อคเข้าที่
 3. เลื่อนโมดูลอ่านค่าที่ประกอบเสร็จแล้วกลับเข้าไปใน T1M Utility
 
-<img src="https://support.reekon.tools/hc/article_attachments/38091738237460" alt="การประกอบโมดูลกลับ" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/38091738237460" alt="การประกอบโมดูลกลับ" width="300">
 
 4. หมุน T1M ไปด้านข้างและเลื่อนฝาด้านล่างกลับเข้าที่
 
-<img src="https://support.reekon.tools/hc/article_attachments/38091723358996" alt="การใส่ฝากลับ" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/38091723358996" alt="การใส่ฝากลับ" width="300">
 
 5. ใส่น็อตฟิลิปส์สีเงิน 4 ตัวกลับคืน (ข้างละ 2 ตัว) โดยใช้ไขควงหัวฟิลิปส์ #0
 6. เมื่อประกอบ T1M เสร็จแล้ว เราแนะนำให้ทำการตั้งค่าใบตลับเพื่อให้เครื่องหมายบนใบตลับใหม่ตรงกับการแสดงผลดิจิทัลอย่างสมบูรณ์แบบ

@@ -12,7 +12,7 @@ T1M Utility Tape Measure มาพร้อมกับ Marking Square ที่
 
 **1.2** กดแท็บและเลื่อน Marking Square ออกจากช่องเก็บ
 
-**1.3** <img src="https://support.reekon.tools/hc/article_attachments/37459285414036" alt="การถอด Marking Square" width="400">
+**1.3** <img src="https://support.reekon.tools/hc/article_attachments/37459285414036" alt="การถอด Marking Square" width="300">
 
 </div>
 
@@ -26,7 +26,7 @@ T1M Utility Tape Measure มาพร้อมกับ Marking Square ที่
 
 **2.3** กดให้แน่นลงในร่องจนกว่าจะรู้สึกว่าล็อคเข้าที่แน่น
 
-**2.4** <img src="https://support.reekon.tools/hc/article_attachments/37459422784148" alt="การติดตั้ง Marking Square" width="400">
+**2.4** <img src="https://support.reekon.tools/hc/article_attachments/37459422784148" alt="การติดตั้ง Marking Square" width="300">
 
 </div>
 

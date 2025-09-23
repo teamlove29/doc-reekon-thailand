@@ -13,7 +13,7 @@
 5. ถอดกลอนล็อกอัตโนมัติออกจากชุดประกอบ
 6. เลื่อนใบมีดรอบๆ ตัวเชื่อมต่อโมดูลอ่านอย่างระมัดระวังเพื่อตัดการเชื่อมต่อ
 
-<img src="https://support.reekon.tools/hc/article_attachments/38092770449044" alt="การถอดโมดูลอ่าน" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/38092770449044" alt="การถอดโมดูลอ่าน" width="300">
 
 </div>
 
@@ -25,7 +25,7 @@
 2. ยืนยันว่าชิ้นส่วนทั้งหมด รวมถึงกลอนล็อกอัตโนมัติ ประกอบถูกต้อง
 3. ใส่โมดูลอ่านกลับเข้าไปใน T1M Utility
 
-<img src="https://support.reekon.tools/hc/article_attachments/38092770456724" alt="การติดตั้งโมดูลอ่านใหม่" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/38092770456724" alt="การติดตั้งโมดูลอ่านใหม่" width="300">
 
 4. ติดตั้งน็อตฟิลิปส์สองตัวกลับคืน (อย่าขันแน่นเกินไป)
 5. เปิดเครื่องและยืนยันว่าโมดูลทำงานถูกต้อง

@@ -2,7 +2,7 @@
 
 สิทธิ์ Bluetooth จำเป็นสำหรับ ROCK Jobsite App เพื่อเชื่อมต่อกับ T1M สำหรับการแชร์การวัดและการอัปเดต firmware แม้ว่าสิทธิ์นี้สามารถให้ได้ขณะติดตั้งแอปครั้งแรก แต่คุณยังสามารถทำได้ด้วยตนเองภายหลัง
 
-<img src="https://support.reekon.tools/hc/article_attachments/37713808948756" alt="การตั้งค่าสิทธิ์ Bluetooth" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37713808948756" alt="การตั้งค่าสิทธิ์ Bluetooth" width="300">
 
 หากคุณต้องการเปิดใช้งานภายหลัง กรุณาทำตามขั้นตอนด้านล่างขึ้นอยู่กับระบบปฏิบัติการของอุปกรณ์:
 
@@ -13,7 +13,7 @@
 3. ตรวจสอบให้แน่ใจว่าสิทธิ์ Bluetooth ถูกเปิดใช้งาน
 4. รีสตาร์ทแอปและเชื่อมต่อกับ T1M Utility
 
-<img src="https://support.reekon.tools/hc/article_attachments/37713808951316" alt="การตั้งค่า iOS" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37713808951316" alt="การตั้งค่า iOS" width="300">
 
 ## <span style="color: orange">สำหรับ Android</span>
 
@@ -23,4 +23,4 @@
 4. ตรวจสอบให้แน่ใจว่า "Nearby Devices" (Bluetooth) ถูกเปิดใช้งานและอยู่ในหมวด "Allowed"
 5. รีสตาร์ทแอปและเชื่อมต่อกับ T1M Utility
 
-<img src="https://support.reekon.tools/hc/article_attachments/37713825498644" alt="การตั้งค่า Android" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37713825498644" alt="การตั้งค่า Android" width="300">

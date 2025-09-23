@@ -12,10 +12,10 @@
 
 - คุณสามารถเปิด/ปิด auto lock ได้โดยการกดปุ่ม autolock ลง จากนั้นเลื่อนสวิตช์ Auto Lock ไปทางซ้ายหรือขวา เมื่อปิด auto lock จะมีจุดสีแดงปรากฏขึ้น
 
-<img src="https://support.reekon.tools/hc/article_attachments/37421733095444" alt="Auto Lock Function" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37421733095444" alt="Auto Lock Function" width="300">
 
 ### <span style="color: orange">เมื่อปิด Auto Lock</span>
 
 - เมื่อปิด Auto Lock ใบตลับเมตรจะยืดออกและหดเข้าได้เหมือนตลับเมตรปกติที่มีแรงต้านน้อยที่สุด โดยไม่ล็อคในตำแหน่งใดๆ
 
-<img src="https://support.reekon.tools/hc/article_attachments/37989390682004" alt="Auto Lock Disabled" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37989390682004" alt="Auto Lock Disabled" width="300">

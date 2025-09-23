@@ -22,4 +22,4 @@
 
 การวัดที่ลบแล้วไม่สามารถกู้คืนได้ แต่การลบข้อมูลบน T1M จะไม่ส่งผลกระทบต่อข้อมูลที่ส่งผ่าน Bluetooth ไปยัง ROCK Jobsite App แล้ว
 
-<img src="https://support.reekon.tools/hc/article_attachments/37458505230228" alt="การลบข้อมูลการวัด" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37458505230228" alt="การลบข้อมูลการวัด" width="300">

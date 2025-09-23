@@ -34,4 +34,4 @@
 
 หน้าจอดิจิทัลบน T1M ควรแสดงหน่วยการวัดที่เลือกใหม่แล้ว
 
-<img src="https://support.reekon.tools/hc/article_attachments/37918286475412" alt="Units of Measurement Selection" width="200">
+<img src="https://support.reekon.tools/hc/article_attachments/37918286475412" alt="Units of Measurement Selection" width="300">

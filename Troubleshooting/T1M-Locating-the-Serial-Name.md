@@ -4,7 +4,7 @@
 
 <div style="margin-left: 10px;">
 
-<img src="https://support.reekon.tools/hc/article_attachments/37989838819348" alt="ตำแหน่งชื่อซีเรียล T1M" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37989838819348" alt="ตำแหน่งชื่อซีเรียล T1M" width="300">
 
 </div>
 

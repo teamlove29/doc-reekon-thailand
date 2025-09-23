@@ -9,4 +9,4 @@
 - **10,000-25,000 การวัด** - Master Chief (หัวหน้าช่างผู้เชี่ยวชาญ)
 - **25,000+ การวัด** - God (เทพเจ้า)
 
-<img src="https://support.reekon.tools/hc/article_attachments/37887413571604" alt="Sleep Screen Display" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37887413571604" alt="Sleep Screen Display" width="300">

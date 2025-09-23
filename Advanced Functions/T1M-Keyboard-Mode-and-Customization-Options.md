@@ -18,7 +18,7 @@
 
 นำทางไปยัง Main Menu อีกครั้งและเลื่อนไปที่ "KBD ENDING" ที่นี่คุณสามารถเลือกว่าควรกดปุ่มใดหลังจากส่งการวัด
 
-<img src="https://support.reekon.tools/hc/article_attachments/38896819301012" alt="KBD Ending Settings" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/38896819301012" alt="KBD Ending Settings" width="300">
 
 **2.1** Enter, Tab, Comma, Semicolon หรือ None สามารถเลือกได้เป็น delimiter ของคุณ
 

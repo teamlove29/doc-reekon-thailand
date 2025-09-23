@@ -20,7 +20,7 @@ T1M Utility สามารถวัดได้จากทั้งหน้�
 
 </div>
 
-<img src="https://support.reekon.tools/hc/article_attachments/37918539564692" alt="โหมดการวัดภายใน MBMF" width="400">
+<img src="https://support.reekon.tools/hc/article_attachments/37918539564692" alt="โหมดการวัดภายใน MBMF" width="300">
 
 ## <span style="color: orange">การออกจากโหมด MBMF</span>
 
