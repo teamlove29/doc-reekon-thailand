@@ -1,1 +1,11 @@
-# <span style="color: orange">[ROCK] Your Account Profile and App Settings</span>
+# <span style="color: orange">[ROCK] โปรไฟล์บัญชีและการตั้งค่าแอปของคุณ</span>
+
+คุณสามารถดูและอัปเดตการตั้งค่าโปรไฟล์ของคุณภายในแอป ROCK ได้ตลอดเวลา
+
+1. เลือกไอคอนโปรไฟล์ที่มุมขวาบนของหน้าจอ ซึ่งจะนำคุณไปยังหน้าการตั้งค่า
+
+2. แตะที่ส่วนหัวด้านบนของหน้าการตั้งค่าเพื่อไปยังการตั้งค่าบัญชีของคุณ
+   ![Account Settings](https://support.reekon.tools/hc/article_attachments/28939598425236)
+
+3. คุณสามารถอัปเดตรูปภาพโปรไฟล์ของคุณที่นี่ รวมถึงดูคุณสมบัติที่เกี่ยวข้อง
+   ![Profile Settings](https://support.reekon.tools/hc/article_attachments/28939598428052)

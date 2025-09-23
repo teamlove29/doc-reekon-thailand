@@ -1,1 +1,22 @@
-# <span style="color: orange">[ROCK] Changing Default Units</span>
+# <span style="color: orange">[ROCK] การเปลี่ยนหน่วยเริ่มต้น</span>
+
+หน่วยการวัดมีผลทั่วโลกตลอดแอป ROCK Jobsite แม้ว่าฟีเจอร์บางอย่างจะอนุญาตให้เลือกภายในแอป แต่หน่วยสากลจะกำหนดรูปแบบการวัดที่ทำได้ทุกที่ในแอป โดยค่าเริ่มต้น หน่วยจะอยู่ในนิ้ว (1/32 นิ้ว)
+
+## <span style="color: orange">เพื่อเปลี่ยนหน่วยสากล:</span>
+
+1. ที่มุมขวาบนของแอป กดไอคอนโปรไฟล์ ซึ่งจะนำคุณไปยังการตั้งค่าของคุณ
+   ![Profile Settings](https://support.reekon.tools/hc/article_attachments/28939763663124)
+
+2. ภายใต้ส่วน General Settings ให้เลือก "Default Units"
+   ![Default Units](https://support.reekon.tools/hc/article_attachments/28939763670932)
+
+3. เลือกหน่วยที่จะใช้ตลอดทั้งแอป สามารถเลือกหน่วยต่อไปนี้ได้:
+   - เซนติเมตร (cm)
+   - มิลลิเมตร (mm)
+   - เมตร (m)
+   - นิ้วทศนิยม (in)
+   - ฟุตทศนิยม (ft)
+   - นิ้วเศษส่วน (1/16")
+   - นิ้วเศษส่วน (1/32")
+   - ฟุตนิ้วทศนิยม (ft in)
+   - ฟุตนิ้วเศษส่วน (1/32)
